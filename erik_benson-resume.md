@@ -17,12 +17,11 @@ __Brigham Young University - Idaho__, Rexburg, Idaho
 
 ## Certifications and Skills
 
-__Eagle Scout__, Troop 331 <!-- I don't think that Eagle Scout should be your first qualification. I would put Python and SQL and any other
-data science related skills before it.-->
-
 __Python__, 2 years of experience
 
 __SQL__, Less than a year
+
+__Eagle Scout__, Troop 331 
 
 ## Service and Work History
 
@@ -30,15 +29,25 @@ __SQL__, Less than a year
   
 `2022-Present`
 __Programming with Data Structures Tutor__, BYU-I
+  -Instructed with the python language.
+  -Remote collaboration via Zoom.
+  -Teaching and Reinforcing advanced programming concepts.
 
 `2015-2019, 2021-Present`
 __Assembly Technician__, On-Demand Digital Diplay
+  -Acted as a company representative in professional settings.
+  -Built and assembled electronic displays.
+  -Assisted in preparing specialized computers.
 
 `2019-2021`
 __Ecclesiastical Service and Teaching__, Kenya, Tanzania, Michigan
-
+  -Discussed and presented new and abstract concepts.
+  -Performed service in Orphanages, Thrift Shops, and Public Venues.
+  
+  
 `2019-2020`
 __English Teacher__, Kenya, Tanzania, Michigan
+  -Taught English to Swahili speakers.
 
 <!-- ### Footer
 
