@@ -13,6 +13,7 @@ A student at Brigham Young University - Idaho.
 
 `Projected Graduation: 2024`
 __Brigham Young University - Idaho__, Rexburg, Idaho
+
 -Bachelors of Science: Physics, Computational Emphasis 
 
 ## Certifications and Skills
