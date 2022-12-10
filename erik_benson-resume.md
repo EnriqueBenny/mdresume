@@ -31,24 +31,32 @@ __Eagle Scout__, Troop 331
 __Programming with Data Structures Tutor__, BYU-I
   
 -Instructed with the python language.
+
 -Remote collaboration via Zoom.
+
 -Teaching and Reinforcing advanced programming concepts.
 
 `2015-2019, 2021-Present`
 __Assembly Technician__, On-Demand Digital Diplay
-  -Acted as a company representative in professional settings.
-  -Built and assembled electronic displays.
-  -Assisted in preparing specialized computers.
+  
+-Acted as a company representative in professional settings.
+  
+-Built and assembled electronic displays.
+
+-Assisted in preparing specialized computers.
 
 `2019-2021`
 __Ecclesiastical Service and Teaching__, Kenya, Tanzania, Michigan
-  -Discussed and presented new and abstract concepts.
-  -Performed service in Orphanages, Thrift Shops, and Public Venues.
+  
+-Discussed and presented new and abstract concepts.
+  
+-Performed service in Orphanages, Thrift Shops, and Public Venues.
   
   
 `2019-2020`
 __English Teacher__, Kenya, Tanzania, Michigan
-  -Taught English to Swahili speakers.
+  
+-Taught English to Swahili speakers.
 
 <!-- ### Footer
 
