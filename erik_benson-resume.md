@@ -29,9 +29,10 @@ __Eagle Scout__, Troop 331
   
 `2022-Present`
 __Programming with Data Structures Tutor__, BYU-I
-  -Instructed with the python language.
-  -Remote collaboration via Zoom.
-  -Teaching and Reinforcing advanced programming concepts.
+  
+-Instructed with the python language.
+-Remote collaboration via Zoom.
+-Teaching and Reinforcing advanced programming concepts.
 
 `2015-2019, 2021-Present`
 __Assembly Technician__, On-Demand Digital Diplay
